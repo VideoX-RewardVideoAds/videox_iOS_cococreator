@@ -1,0 +1,6 @@
+framework module VideoXSDK {
+  umbrella header "VideoXSDK.h"
+
+  export *
+  module * { export * }
+}
